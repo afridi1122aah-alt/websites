@@ -5,7 +5,8 @@ updates:
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
-      interval: "daily"
+free fire headset 
+interval: "daily"
 
   # Maintain dependencies for npm
   - package-ecosystem: "npm"
